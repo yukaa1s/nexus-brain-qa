@@ -22,8 +22,8 @@ This repository contains a professional **End-to-End (E2E) Testing Framework** d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-org/nexus-brain-qa-automation.git
-   cd nexus-brain-qa-automation
+   git clone https://github.com/your-org/nexus-brain-qa.git
+   cd nexus-brain-qa
    ```
 
 2. Install dependencies:
